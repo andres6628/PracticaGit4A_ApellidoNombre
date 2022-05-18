@@ -1,0 +1,2 @@
+c++, c#, java, javaScript, php, typeScript, solidity
+mySQL, microsoft sql server management studio, mongo db
